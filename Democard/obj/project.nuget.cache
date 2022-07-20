@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lz7Kq262nCZt/HSRqvXkNl92bmawLvCtzL1tYL+YWaRYTSqh7h5Yvwj7LY3Yf6yfYHnH2tpaJipjuhdPpNUgKA==",
+  "success": true,
+  "projectFilePath": "C:\\Developer\\Visual Studio 2022\\c# and aspnet\\Democard\\Democard\\Democard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JSoriano\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\JSoriano\\.nuget\\packages\\packable\\6.2.0\\packable.6.2.0.nupkg.sha512",
+    "C:\\Users\\JSoriano\\.nuget\\packages\\packable.newtonjson\\2.0.0\\packable.newtonjson.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

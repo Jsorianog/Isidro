@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Democard/1.0.0": {
+        "dependencies": {
+          "Packable.newtonjson": "2.0.0"
+        },
+        "runtime": {
+          "Democard.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "Packable/6.2.0": {
+        "runtime": {
+          "lib/netcoreapp2.2/Packable.dll": {
+            "assemblyVersion": "0.6.2.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "Packable.newtonjson/2.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Packable": "6.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Packable.newtonjson.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Democard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "Packable/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZXdZF5AbQD7iuNXiCPgphoyjoMRQEj9/KLShkv4kmQeaEl7w38365KyP8C+y1rRDMAe4fJvA88//aaBqBvD8Sg==",
+      "path": "packable/6.2.0",
+      "hashPath": "packable.6.2.0.nupkg.sha512"
+    },
+    "Packable.newtonjson/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RVOiNvByTU+NXyVA2Kp5nP5Kwu5Twe+ALOYdXuE23HXZVMWbeobYhB++UkdFB6NRKuUvgTyC5P+d9p3ONnj5oA==",
+      "path": "packable.newtonjson/2.0.0",
+      "hashPath": "packable.newtonjson.2.0.0.nupkg.sha512"
+    }
+  }
+}
